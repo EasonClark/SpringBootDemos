@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a95d2852-29d4-4726-bdf0-7faf34cd08a2" name="Default" comment="add user-info project,and init logback,mysql,mybatis config">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/main/java/hello/ConfigClientApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/main/java/hello/TestGetConfigServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/main/resources/bootstrap.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/src/main/java/hello/ConfigServiceApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/controller/InitConfigTestController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/dao/InitConfigDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/daoImpl/InitConfigDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/mapper/UserInfoMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/service/InitConfigService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/serviceImpl/InitConfigServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/java/hello/test/SayHello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/reources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/reources/config/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/reources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user-info/src/main/reources/mappers/UserInfoMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="a95d2852-29d4-4726-bdf0-7faf34cd08a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -305,92 +283,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="daoImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="reources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="reources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootdemos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootdemos" type="462c0819:PsiDirectoryNode" />
-              <item name="user-info" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="reources" type="462c0819:PsiDirectoryNode" />
-              <item name="mappers" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -566,7 +458,7 @@
       <workItem from="1527667341730" duration="1561000" />
       <workItem from="1527667341730" duration="2203000" />
       <workItem from="1527683470194" duration="5940000" />
-      <workItem from="1527732151257" duration="21263000" />
+      <workItem from="1527732151257" duration="21361000" />
     </task>
     <task id="LOCAL-00001" summary="update iml">
       <created>1527669548352</created>
@@ -575,11 +467,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527669548352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add user-info project,and init logback,mysql,mybatis config">
+      <created>1527754789496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527754789496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29406000" />
+    <option name="totallyTimeSpent" value="29504000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,13 +500,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273743" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29497206" sideWeight="0.49573562" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
