@@ -8,11 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gs-multi-module-client" />
         <module name="gs-multi-module-config" />
+        <module name="spring-boot-modules-client" />
+        <module name="spring-boot-modules-config" />
+        <module name="spring-boot-modules-user-info" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gs-multi-module-client" target="1.8" />
       <module name="gs-multi-module-config" target="1.8" />
+      <module name="spring-boot-modules-client" target="1.8" />
+      <module name="spring-boot-modules-config" target="1.8" />
+      <module name="spring-boot-modules-user-info" target="1.8" />
       <module name="springbootdemos" target="1.6" />
     </bytecodeTargetLevel>
   </component>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/client/gs-multi-module-client.iml" filepath="$PROJECT_DIR$/client/gs-multi-module-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config/gs-multi-module-config.iml" filepath="$PROJECT_DIR$/config/gs-multi-module-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/spring-boot-modules-client.iml" filepath="$PROJECT_DIR$/client/spring-boot-modules-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/spring-boot-modules-config.iml" filepath="$PROJECT_DIR$/config/spring-boot-modules-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-info/spring-boot-modules-user-info.iml" filepath="$PROJECT_DIR$/user-info/spring-boot-modules-user-info.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootdemos.iml" filepath="$PROJECT_DIR$/springbootdemos.iml" />
     </modules>
   </component>
