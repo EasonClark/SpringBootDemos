@@ -458,7 +458,7 @@
       <workItem from="1527667341730" duration="1561000" />
       <workItem from="1527667341730" duration="2203000" />
       <workItem from="1527683470194" duration="5940000" />
-      <workItem from="1527732151257" duration="21361000" />
+      <workItem from="1527732151257" duration="21373000" />
     </task>
     <task id="LOCAL-00001" summary="update iml">
       <created>1527669548352</created>
@@ -474,11 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527754789496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add user-info project,and init logback,mysql,mybatis config">
+      <created>1527754876524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527754876524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29504000" />
+    <option name="totallyTimeSpent" value="29516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
